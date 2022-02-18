@@ -7,7 +7,7 @@ import time
 # Replace below path with the absolute path
 browser = webdriver.Firefox()
 
-phone = ["78873405","+917888739405","+917888739405"]
+phone = ["78s34873405","+917888734439405","+917843488739405"]
 message = "questo è il messaggio"
 
 for i in phone:
